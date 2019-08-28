@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chi News Feed</string>
+    <string name="tool_bar_tile_text">News Feed</string>
+    <string name="error_msg">Error</string>
+    <string name="rety_text">Retry</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="incorrect_url">Invalid Url. Please provide a valid URL.</string>
+    <string name="news_feed_pic">news article image</string>
+    <string name="country_name">us</string>
+    <string name="categories_text">business</string>
+    <string name="something_went_wrong">Something went wrong, please try again later. </string>
+
+    <string name="base_url">https://newsapi.org</string>
+    <string name="news_feed_end_point">/v2/top-headlines</string>
+    <string name="api_key">5db66336c84a4da6a6d744d4402fd8a6</string>
+
+
+
+</resources>
